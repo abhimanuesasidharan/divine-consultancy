@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/divine-consultancy/static/css/main.98d33c03.css",
+    "main.js": "/divine-consultancy/static/js/main.d4f6baa2.js",
+    "static/js/453.8ab44547.chunk.js": "/divine-consultancy/static/js/453.8ab44547.chunk.js",
+    "static/media/landingimage.png": "/divine-consultancy/static/media/landingimage.6ba72e58d49e07eaea7c.png",
+    "static/media/bg-logo2.png": "/divine-consultancy/static/media/bg-logo2.981e4ce8ca1b59121943.png",
+    "index.html": "/divine-consultancy/index.html",
+    "main.98d33c03.css.map": "/divine-consultancy/static/css/main.98d33c03.css.map",
+    "main.d4f6baa2.js.map": "/divine-consultancy/static/js/main.d4f6baa2.js.map",
+    "453.8ab44547.chunk.js.map": "/divine-consultancy/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98d33c03.css",
+    "static/js/main.d4f6baa2.js"
+  ]
+}
