@@ -215,7 +215,7 @@ function App() {
       {/*    ABOUT      */}
 
       {/*    COURSES      */}
-      <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-4 md:mx-5">
+      <div className="grid grid-cols-2 sm:grid-cols-2 mt-10 md:grid-cols-4 gap-4 md:mx-5">
         <BaCourses />
         <BscCourses />
         <BtechCourses />
